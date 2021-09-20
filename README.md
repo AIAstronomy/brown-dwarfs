@@ -4,7 +4,7 @@ Authors: Crespo Montes, Cándido, Guzmán-Álvarez, César Augusto
 
 ## Abstract
 
-Casificación no supervisada sobre una muestra de espectros de enanas marrones de la clase espectral M. 
+Clasificación no supervisada sobre una muestra de espectros de enanas marrones de la clase espectral M. 
 
 La muestra incluye enanas de todas las subclases espectrales desde la M0 hasta la M9 y clases de metalicidad; metalicidad solar, subenanas, subenanas extremas y ultrasubenanas. 
 
